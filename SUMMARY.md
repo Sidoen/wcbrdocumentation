@@ -1,4 +1,4 @@
 # Table of contents
 
-* [WCBR Documentation](README.md)
+* [Worthless Carebears Onboarding Documentation](README.md)
 
