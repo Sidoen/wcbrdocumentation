@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Worthless Carebears Onboarding Documentation](README.md)
+* [Worthless Documentation Repository](README.md)
+* [Onboarding](onboarding.md)
 
