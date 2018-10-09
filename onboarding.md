@@ -46,3 +46,22 @@ TODO: Needs updating
 
 ## **Glossary of Terms**
 
+\*\*\*\*
+
+* **WCBR**
+  * **Worthless Carebear corporate ticker.**
+* **TAOE**
+  * **The Ancients of Eternity, an allied corporation.**
+* **SLYCE**
+  * **Solyaris Chtonium alliance ticker.**
+* **GOTG**
+  * **Guardians of the Galaxy coalition acronym.**
+* **Carebear**
+  * **A member of Worthless Carebears.**
+* **TS3**
+  * **Teamspeak3, a voice communications program.**
+* **SSO**
+  * **Single Sign On, Eve Online’s centralized authorization service for third party applications.**
+* **MOTD**
+  * **Acronym of “Message of the Day,” an informative message that appears in each chat channel when you first log in or join the channel.**
+
