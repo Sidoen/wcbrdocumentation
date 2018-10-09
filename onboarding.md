@@ -46,8 +46,6 @@ TODO: Needs updating
 
 ## **Glossary of Terms**
 
-\*\*\*\*
-
 * **WCBR**
   * **Worthless Carebear corporate ticker.**
 * **TAOE**
